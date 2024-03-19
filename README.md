@@ -21,7 +21,7 @@ Para utilizar a classe `Impressora`, siga estas etapas:
 1. Clone este repositório em sua máquina local:
 
     ```
-    [https://github.com/rayaneCarvalho/singleton.git]
+    https://github.com/rayaneCarvalho/singleton.git
     ```
 
 2. Importe o projeto em seu ambiente de desenvolvimento Java.
